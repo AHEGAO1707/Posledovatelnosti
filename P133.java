@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /*Напишите программу, вводящую последовательность целых чисел, и печатающую количество ее максимальных элементов.*/
-public class P113 {
+public class P133 {
     public static void main(String[] args) {
         int min = Integer.MIN_VALUE;
         int n = 0;
